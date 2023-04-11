@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 //import Form from './Form';
 import './index.css';
-import Routing from './Routing.js';
+import Routing from './Routing';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
